@@ -1,6 +1,6 @@
-# Accomplishments - Danh sách các chứng chỉ PDF
+# Accomplishments
 
-Dưới đây là danh sách các file PDF chứng chỉ trong thư mục này. Bạn có thể click vào tên từng file để xem trực tiếp trên GitHub.
+Below is a list of certificate PDF files in this directory. You can click on each file name to view it directly on GitHub.
 
 - [Academic Skills for University Success.pdf](https://github.com/ngothanhdat-AK/certificate-coursera/blob/4d3c8235c899b5a6115a9567ae4be8045e196a14/Accomplishments/Academic%20Skills%20for%20University%20Success.pdf)
 - [Amazon Junior Software Developer.pdf](https://github.com/ngothanhdat-AK/certificate-coursera/blob/4d3c8235c899b5a6115a9567ae4be8045e196a14/Accomplishments/Amazon%20Junior%20Software%20Developer.pdf)
