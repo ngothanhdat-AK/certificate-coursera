@@ -1,16 +1,10 @@
-# certificate-coursera
+# Accomplishments - Danh sách các chứng chỉ PDF
 
-## Completed Coursera Courses
+Dưới đây là danh sách các file PDF chứng chỉ trong thư mục này. Bạn có thể click vào tên từng file để xem trực tiếp trên GitHub.
 
-| Course Name        | Course Link                                               | Certificate PDF                  |
-|--------------------|----------------------------------------------------------|-----------------------------------|
-| Academic Skills for University Success      | [View Course](https://www.coursera.org/learn/example1)   | [Certificate PDF](cert1.pdf)      |
-| Amazon Junior Software Developer      | [View Course](https://www.coursera.org/learn/example2)   | [Certificate PDF](cert2.pdf)      |
-| Programming in Java A Hands-on Introduction      | [View Course](https://www.coursera.org/learn/example3)   | [Certificate PDF](cert3.pdf)      |
-| Software Development Lifecycle      | [View Course](https://www.coursera.org/learn/example4)   | [Certificate PDF](cert4.pdf)      |
-| User Experience Research and Design      | [View Course](https://www.coursera.org/learn/example5)   | [Certificate PDF](cert5.pdf)      |
-| Web Design for Everybody Basics of Web Development & Coding      | [View Course](https://www.coursera.org/learn/example6)   | [Certificate PDF](cert6.pdf)      |
-
-> **Note:**  
-> - Replace `Course Name`, `https://www.coursera.org/learn/exampleX`, and `certX.pdf` with your actual course and certificate details.
-> - To add more courses, simply add a new row to the table in the same format.
+- [Academic Skills for University Success.pdf](https://github.com/ngothanhdat-AK/certificate-coursera/blob/4d3c8235c899b5a6115a9567ae4be8045e196a14/Accomplishments/Academic%20Skills%20for%20University%20Success.pdf)
+- [Amazon Junior Software Developer.pdf](https://github.com/ngothanhdat-AK/certificate-coursera/blob/4d3c8235c899b5a6115a9567ae4be8045e196a14/Accomplishments/Amazon%20Junior%20Software%20Developer.pdf)
+- [Programming in Java A Hands-on Introduction.pdf](https://github.com/ngothanhdat-AK/certificate-coursera/blob/4d3c8235c899b5a6115a9567ae4be8045e196a14/Accomplishments/Programming%20in%20Java%20A%20Hands-on%20Introduction.pdf)
+- [Software Development Lifecycle.pdf](https://github.com/ngothanhdat-AK/certificate-coursera/blob/4d3c8235c899b5a6115a9567ae4be8045e196a14/Accomplishments/Software%20Development%20Lifecycle.pdf)
+- [User Experience Research and Design.pdf](https://github.com/ngothanhdat-AK/certificate-coursera/blob/4d3c8235c899b5a6115a9567ae4be8045e196a14/Accomplishments/User%20Experience%20Research%20and%20Design.pdf)
+- [Web Design for Everybody Basics of Web Development & Coding.pdf](https://github.com/ngothanhdat-AK/certificate-coursera/blob/4d3c8235c899b5a6115a9567ae4be8045e196a14/Accomplishments/Web%20Design%20for%20Everybody%20Basics%20of%20Web%20Development%20%26%20Coding.pdf)
